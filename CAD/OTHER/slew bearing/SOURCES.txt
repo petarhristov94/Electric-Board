@@ -1,0 +1,4 @@
+Sources for Slew Bearing - Customizable
+
+Slew Bearing, parametric Design with Fusion 360 (https://www.thingiverse.com/thing:2375124)
+bolts, nuts, threaded rods - OpenSCAD library Threading.scad (https://www.thingiverse.com/thing:1659079)

@@ -1,0 +1,5 @@
+Firmwares sources:
+https://github.com/Ackmaniac/Ackmaniac-Firmware-Mod
+
+BLDC-Tool sources:
+https://github.com/Ackmaniac/Ackmanaiac-BLDC-Tool-Mod
