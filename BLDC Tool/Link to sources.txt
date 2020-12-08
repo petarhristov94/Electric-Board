@@ -1,5 +1,0 @@
-Firmware sources
-https://github.com/Ackmaniac/bldc
-
-Tool Sources
-https://github.com/Ackmaniac/vesc_tool
